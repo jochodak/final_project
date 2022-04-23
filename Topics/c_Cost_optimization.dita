@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_funding_from_pfron_vs_multiple_deductions">
+    <title>Cost optimization </title>
+    <shortdesc>Funding from PFRON vs. multiple deductions</shortdesc>
+    <conbody>
+        <p>Information regarding support from PFRON is widely available. Information regarding
+            multiple deduction can hardly be found. What is the reason for that?</p>
+        <p>Companies have to employ 6% of people with disabilities to be exempted from paying
+            obligatory payments to PFRON. When this ratio is achieved there is no payment to PFRON
+            and the company can apply for additional payment to the remuneration of a disabled
+            person. </p>
+        <p>The problem is that it may be hard to find proper employees to fill this 6% requirement
+            of employing disabled persons, especialy if we consider big companies that hire
+            thousands of people. It is particularly difficult to employ people with disabilities in
+            manufacturing companies. Because of their disability, the occupational physician will
+            not allow them to work. </p>
+        <p>Until then the employer has to pay obligatory payments monthly for every person with
+            disability that is not employed by this company. For most of the companies these monthly
+            payments became additional tax and these money are included in the budget.</p>
+        <p>This is where a multiple deduction can become very handy both for the companies and
+            people with disabilities. First of all, companies would need to find people with <xref
+                href="c_disability_assessment_in_poland.dita">disabilities who have moderate or
+                significant degree of disability</xref> and this disability is caused by a <xref
+                href="c_specific_medical_conditions.dita">specific medical condition</xref>. This
+            way an employer can deduct triple (7,308 PLN) or fourfold deduction (9,744 PLN) from
+            PFRON payments. In the latter scenario, this means that employer will have to employ
+            only one person, but he can deduct amount as if there were 4 people (1=4). The company
+            that hires 1000 people instead of employing 60 people with disabilities would need to
+            employ 15 people with significant degree of disability to eliminate entirely payments to
+            PRFON. </p>
+        <p>The company doesn't have to pay obligatory payments to PFRON, can they apply for
+            additional payment to the remuneration of a disabled person?</p>
+        <p>In the above scenario they can't, because they employ 15 people instead o 60, which is
+            1,5%. Even though multiple deduction counts a person as four people, the actual number
+            of employed persons with disabilities is taken into account when calculating the
+            employment indicator. </p>
+        <p>It is not said, that the company can never apply for the support from PFRON. Now that
+            they do not have to pay contributions to the fund and they have people with disability
+            with no additional cost, they can focus on filling the remaining 4.5% gap and then
+            applying for the support.</p>
+        <p>A diagram showing types of inspections when using support from PFRON:</p>
+        <p><image
+                href="../../../Technical%20communication/Disabilities/Images/diagram%20(1)%20-%20Copy.svg"
+                id="image_mtt_hb4_htb"/></p>
+        <p>
+            <note id="note_zdx_pdf_htb" type="important">When using a multiple deduction method, the
+                company can be a subject of inspections from only from PFRON, if the fund decides it
+                is applicable.</note>
+        </p>
+        <p/>
+        <p><b>How companies can benefit even more by employment of persons with
+            disabilities:</b></p>
+        <ol id="ol_yc5_3dn_htb">
+            <li>employ persons with multiple deductions for PFRON to eliminate the obligatory
+                payments paid to PFRON as soon as possible</li>
+            <li>employ persons with disabilities to achieve the 6% disability employment rate as
+                soon as possible and apply for a grant from the Fund for each disabled person
+                employed</li>
+            <li>further employment of more persons with disabilities</li>
+        </ol>
+    </conbody>
+</concept>

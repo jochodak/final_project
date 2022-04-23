@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_financial_benefits">
+    <title>Financial benefits</title>
+    <shortdesc>Examples of calculations of financial benefits when using multiple deduction method
+        for companies employing 647 and 1500 workers </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p>In order to avoid payments to PFRON by employing persons with disabilities, the
+            employment rate of such persons should be at least 6%.</p>
+        <p/>
+        <p><b>COMPANY 1 - hiring 647 FTEs - real life example</b></p>
+        <p><b>Company profile:</b> A manufacturing/logistics company. Physical work is domitating,
+            in such companies it is the most difficult to eliminate penalties for PFRON.</p>
+        <p>Baseline:<ul id="ul_xkt_xfm_htb">
+                <li>647 FTEs in general</li>
+                <li>4 employees with disabilities</li>
+            </ul></p>
+        <p>
+            <ul id="ul_q1z_rgm_htb">
+                <li>The employment rate of persons with disabilities in this company is
+                    <b>0.6%</b>(4/647)</li>
+                <li>The company has to pay obligatory contribution for not employing <b>34.8
+                        FTEs</b>with disabilities based on the following calculations<p>
+                        647*0,06=38,8</p><p> 38,8 – 4 </p></li>
+                <li>The sum of the contributions to be paid is <b>84 807,74 PLN </b>(18309,39
+                    EUR/19815,35 USD) monthly based on<p>34,8*0,4065*<b>5 995,09 PLN</b>= 84 807,74
+                        PLN</p></li>
+            </ul>
+        </p>
+        <p><b>What is an optimal way to fill 34,8 full-time positions with persons with disabilities
+                and forget about contributions paid to PFRON?</b></p>
+        <p>The fastest solution is to employ remote workers (from any part of Poland) who are
+            entitled to a triple or fourfold PFRON allowance.</p>
+        <p><b>The solution adopted by the employer for reducing of PFRON payments:</b></p>
+        <p>
+            <ul id="ul_jw1_p3m_htb">
+                <li> employment of one person with a single deduction from PFRON. This person is a
+                    "handyman" for physical work. It was not possible to find a person with a
+                    disability with multiple deductions for this position</li>
+                <li>employment for the other vacancies persons with triple or fourfold deductions
+                    from PFRON for the fully remote office jobs. Most of them were able to come to
+                    the company's premises for a few days of training; however this was not a
+                    requirement of the employer. Some persons with disabilities with severe
+                    conditions (in wheelchairs) were trained online.</li>
+            </ul>
+        </p>
+        <p><?oxy_custom_start type="oxy_content_highlight" color="235,192,230"?> One person with a
+            fourfold deduction (9,744 PLN/ 2,096 EUR/2,096 USD) received a gross salary of 8000 PLN
+            (1,721 EUR/1,856 USD). The employer's costs (to cover her salary) are 9600 PLN (2,065
+            EUR/2,227 USD). Another person has an excellent knowledge of Excel and B2 level English.
+            She is entitled to a triple deduction (7308 PLN/1,572 EUR/1,695 USD). She will earn 5000
+            PLN gross (1,075 EUR/1,160 USD). The employer's costs are about 6000 PLN (1,290
+            EUR/1,392 USD).<?oxy_custom_end?></p>
+        <p> </p>
+        <p/>
+        <p><b>COMPANY 2 - hiring 1500 FTEs</b></p>
+        <p/>
+        <p><b>Company profile:</b>office work is dominating - banking, insurance etc. Headquarter of
+            the X company. </p>
+        <p>Baseline:<ul id="ul_ds4_ylm_htb">
+                <li>1500 FTEs in general</li>
+                <li>9 employees with disabilities</li>
+            </ul></p>
+        <p/>
+        <p>
+            <ul id="ul_i2g_dmm_htb">
+                <li>The employment rate of persons with disabilities in this company is
+                    <b>0.6%</b>(9/1500)</li>
+                <li>The company has to pay obligatory contribution for not employing <b>81
+                    FTEs</b>with disabilities based on the following calculations<p>
+                        1500*0,06=90</p><p> 90 – 9 </p></li>
+                <li>The sum of the contributions to be paid is <b>197,316 PLN </b>(42,564 EUR/46,060
+                    USD) monthly based on<p>81*0,4065*<b>5 995,09 PLN</b>= 197,316 PLN which
+                        annually is <b>2,367,792 PLN</b>(510,682 EUR/552,728 USD) </p></li>
+            </ul>
+        </p>
+        <p><b>The solution that can be adopted by the employer for the fastest reduction of PFRON
+                payments:</b></p>
+        <p>
+            <ul id="ul_kwn_jnm_htb">
+                <li>employment of 20 people with the fourfold deduction (20*4=80) and one at 0.25
+                    FTE (4*0.25 = 1).</li>
+            </ul>
+        </p>
+        <p><?oxy_custom_start type="oxy_content_highlight" color="235,192,230"?>Let us assume that
+            the employer hires these 21 persons on 81 full-time positions paying on average for the
+            whole position 3900 PLN gross (employer's costs 4680 PLN). </p>
+        <p>In case of employing one person from the amount of four times allowance (9744 PLN) 48% is
+            spent on salaries of persons with disabilities. 52% of the amount is left on the company
+            account.</p>
+        <p>Annually it gives no less than 1.231.252 PLN (265,555 EUR/286,991
+            USD)<?oxy_custom_end?></p>
+    </conbody>
+</concept>

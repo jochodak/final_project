@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_specific_medical_conditions">
+    <title>Specific medical conditions</title>
+    <shortdesc>The list of the specific medical conditions used for multiple deduction</shortdesc>
+    <conbody>
+        <p>The list of specific medical conditions:</p>
+        <p>
+            <ul id="ul_gdd_4zm_htb">
+                <li>Parkinson's disease,</li>
+                <li>multiple sclerosis,</li>
+                <li>paraplegia</li>
+                <li>tetraplegia,</li>
+                <li>hemiplegia,</li>
+                <li>severe visual impairment (blindness) and low vision</li>
+                <li>deafness and dumbness,</li>
+                <li>HIV infection and AIDS,</li>
+                <li>epilepsy,</li>
+                <li>chronic mental illnesses,</li>
+                <li>mental impairment,</li>
+                <li>myasthenia gravis,</li>
+                <li>late complications of diabetes</li>
+            </ul>
+        </p>
+        <p>If the statement of disability has one of the codes used for the reasons for disability:
+            01-U, 04-O, or 06-E, no other document is required for the purpose of confirmation of
+            the specific medical condition. In other cases, in order to be eligible to use a
+            mutliple deduction, a certificate stating that the person has a specific medical
+            condition must be filled in by one of the following specialists: neurologist,
+            psychiatrist, ophthalmologist, otolaryngologist/audiologist, diabetologist or doctor of
+            infectious diseases.</p>
+    </conbody>
+</concept>

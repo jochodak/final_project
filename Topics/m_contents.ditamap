@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title><b>Multiple deductions for employers of people with disabilities</b></title>
+    <topicref href="c_PFRON.dita">
+        <topicref href="c_compulsory_contributions.dita"/>
+    </topicref>
+    <topicref href="c_people_with_disabilities_on_the_labour_market.dita">
+        <topicref href="c_low_employment_rate.dita"/>
+    </topicref>
+    <topicref href="c_disability_assessment_in_poland.dita">
+        <topicref href="c_specific_medical_conditions.dita"/>
+    </topicref>
+    <topicref href="c_Multiple_deduction.dita">
+        <topicref href="c_Cost_optimization.dita"/>
+        <topicref href="c_financial_benefits.dita"/>
+    </topicref>
+    <topicref href="c_employment_process.dita">
+        <topicref href="c_employment_options.dita"/>
+        <topicref href="c_teleworking.dita"/>
+        <topicref href="c_Find_employee.dita"/>
+        <topicref href="c_job_advertisement.dita"/>
+    </topicref>
+    <topicref href="c_disability_inclusion.dita"/>
+</map>

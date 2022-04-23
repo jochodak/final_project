@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Specific medical conditions","shortdesc":"<p class=\"shortdesc\">The list of the specific medical conditions used for multiple deduction<\/p>","href":"c_specific_medical_conditions.html","attributes":{"data-id":"c_specific_medical_conditions"},"menu":{"hasChildren":false},"tocID":"c_specific_medical_conditions-d233e68","topics":[]}]});

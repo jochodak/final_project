@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_procedure_of_hiring_a_person_with_disability">
+    <title>Employment</title>
+    <shortdesc>A procedure of hiring a person with disability</shortdesc>
+    <conbody>
+        <p>The procedure of hiring a person with disability when the company wants to use a multiple
+            deduction method only slightly differs from the employment process of non-disabled
+            person.</p>
+        <p>
+            <ol>
+                <li>The company hires a person with a disability and proceeds with usual formalities
+                    within the company</li>
+                <li>A person with disability provides a certificate stating that the person has a
+                    specific medical condition, however if the person has a statement of disability
+                    that has one of the codes used for the reasons for disability: 01-U, 04-O, or
+                    06-E, no other document is required for the purpose of confirmation of the
+                    specific medical condition.</li>
+                <li>PFRON may enquire on what grounds the multiple deduction has been applied<ul
+                        id="ul_enf_pfn_htb">
+                        <li>provide PFRON with a specific medical condition certificate or a
+                            statement of disability, as applicable</li>
+                    </ul></li>
+                <li>Up to 20th day of each month a company has to fill in a form DEK-10 completing
+                    the number of persons with specific medical conditions </li>
+            </ol>
+        </p>
+        <note id="note_ey5_bgn_htb" type="note">the company does not have to provide the spcific
+            medical condition certificate until PFRON requests it. </note>
+    </conbody>
+</concept>
